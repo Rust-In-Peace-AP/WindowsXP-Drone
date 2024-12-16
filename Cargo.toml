@@ -1,5 +1,5 @@
 [package]
-name = "ap2024_rustinpeace_windowsXPdrone"
+name = "ap2024_rustinpeace_windowsxpdrone"
 version = "0.1.0"
 edition = "2021"
 
@@ -19,5 +19,5 @@ debug = ["wg_2024/debug"]
 serialize = ["wg_2024/serialize"]
 
 [lib]
-name = "ap2024_rustinpeace_windowsXPdrone"
+name = "ap2024_rustinpeace_windowsxpdrone"
 path = "src/lib.rs"
